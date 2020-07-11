@@ -7,7 +7,7 @@ function addingEventListener() {
 
 addingEventListener();
 
-// IIF Immediately Invoked Function 
+// IIF Immediately Invoked Function
 // (function() {
 //   const input = document.getElementById('input');
 //   input.addEventListener('click', function(event) {
